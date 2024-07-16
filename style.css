@@ -124,7 +124,7 @@ footer{
         top: 680px;
         left: 130px;
         height:400px;
-        width: 700px;
+        width: 920px;
     }
 
     .about h2{
@@ -150,7 +150,7 @@ footer{
 
     .card2{
         position: relative;
-        top: 550px;
+        top: 500px;
         width: 925px;
         height: 100px;
         border-top-left-radius: 70px;
@@ -159,7 +159,7 @@ footer{
 
     footer{
         position: relative;
-        top: 550px;
+        top: 500px;
         width: 950px;
         font-size: 30px;
     }
