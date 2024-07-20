@@ -111,6 +111,15 @@ footer{
     text-align: center;
 }
 
+.fa {
+    padding: 0px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(255, 200, 0);
+  }
+
 
 @media (min-width: 481px) and (max-width: 1200px){
     .img{
